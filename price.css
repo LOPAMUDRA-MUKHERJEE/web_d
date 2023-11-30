@@ -1,0 +1,840 @@
+.pricing-page-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .pricing-page-pricing-page {
+    width: 100%;
+    height: 1876px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .pricing-page-wavybackground13 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 709px;
+    position: absolute;
+  }
+  .pricing-page-group4 {
+    top: 39px;
+    left: 41px;
+    width: 1359px;
+    height: 71px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .pricing-page-vector {
+    top: 0px;
+    left: 0px;
+    width: 321px;
+    height: 71px;
+    position: absolute;
+    box-sizing: content-box;
+  }
+  .pricing-page-group3 {
+    top: 1px;
+    left: 507px;
+    width: 593px;
+    height: 70px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .pricing-page-text {
+    top: 23px;
+    left: 51px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text02 {
+    top: 23px;
+    left: 198px;
+    color: rgba(118, 96, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text04 {
+    top: 23px;
+    left: 317px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text06 {
+    top: 23px;
+    left: 477px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-ellipse2 {
+    top: 12px;
+    left: 424px;
+    width: 45px;
+    height: 46px;
+    position: absolute;
+  }
+  .pricing-page-rectangle40 {
+    top: 1px;
+    left: 1136px;
+    width: 223px;
+    height: 70px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+  }
+  .pricing-page-text08 {
+    top: 22px;
+    left: 1182px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Semi Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text10 {
+    top: 187px;
+    left: 41px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text12 {
+    top: 265px;
+    left: 41px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-rectangle60 {
+    top: 373px;
+    left: 557px;
+    width: 305px;
+    height: 299px;
+    position: absolute;
+    border-radius: 20px 20px 0 0;
+  }
+  .pricing-page-rectangle56 {
+    top: 373px;
+    left: 131px;
+    width: 305px;
+    height: 491px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(208, 204, 198, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .pricing-page-group20 {
+    top: 354px;
+    left: 131px;
+    width: 1157px;
+    height: 511px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .pricing-page-rectangle57 {
+    top: 19px;
+    left: 426px;
+    width: 305px;
+    height: 491px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(208, 204, 198, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .pricing-page-rectangle58 {
+    top: 20px;
+    left: 852px;
+    width: 305px;
+    height: 491px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(208, 204, 198, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .pricing-page-text14 {
+    top: 116px;
+    left: 528px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text16 {
+    top: 81px;
+    left: 514px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text18 {
+    top: 160px;
+    left: 542px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text20 {
+    top: 196px;
+    left: 460px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-rectangle62 {
+    top: 250px;
+    left: 514px;
+    width: 129px;
+    height: 30px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(208, 204, 198, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+  }
+  .pricing-page-text22 {
+    top: 253px;
+    left: 548px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-line4 {
+    top: 318px;
+    left: 0px;
+    width: 305px;
+    height: 1px;
+    position: absolute;
+  }
+  .pricing-page-line5 {
+    top: 319px;
+    left: 852px;
+    width: 305px;
+    height: 1px;
+    position: absolute;
+  }
+  .pricing-page-line6 {
+    top: 318px;
+    left: 426px;
+    width: 305px;
+    height: 1px;
+    position: absolute;
+  }
+  .pricing-page-text24 {
+    top: 116px;
+    left: 129px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text26 {
+    top: 81px;
+    left: 122px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text28 {
+    top: 160px;
+    left: 126px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text30 {
+    top: 196px;
+    left: 30px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-rectangle63 {
+    top: 250px;
+    left: 88px;
+    width: 129px;
+    height: 30px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(208, 204, 198, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+  }
+  .pricing-page-text32 {
+    top: 253px;
+    left: 122px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-rectangle64 {
+    top: 0px;
+    left: 514px;
+    width: 129px;
+    height: 40px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .pricing-page-text34 {
+    top: 6px;
+    left: 535px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-group19 {
+    top: 81px;
+    left: 858px;
+    width: 292px;
+    height: 199px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .pricing-page-text36 {
+    top: 35px;
+    left: 88px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text38 {
+    left: 90px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text40 {
+    top: 79px;
+    left: 110px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text42 {
+    top: 115px;
+    color: rgba(208, 204, 198, 1);
+    width: 292px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-rectangle65 {
+    top: 169px;
+    left: 82px;
+    width: 129px;
+    height: 30px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(208, 204, 198, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+  }
+  .pricing-page-text44 {
+    top: 172px;
+    left: 116px;
+    color: rgba(208, 204, 198, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text46 {
+    top: 347px;
+    left: 452px;
+    color: rgba(208, 204, 198, 1);
+    width: 253px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text55 {
+    top: 347px;
+    left: 21px;
+    color: rgba(208, 204, 198, 1);
+    width: 253px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text62 {
+    top: 347px;
+    left: 883px;
+    color: rgba(208, 204, 198, 1);
+    width: 253px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-group21 {
+    top: 993px;
+    left: 0px;
+    width: 1440px;
+    height: 761px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .pricing-page-line1 {
+    top: 0px;
+    left: 0px;
+    width: 1415px;
+    height: 1px;
+    position: absolute;
+  }
+  .pricing-page-line2 {
+    top: 452px;
+    left: 24.574243545532227px;
+    width: 1415px;
+    height: 1px;
+    position: absolute;
+  }
+  .pricing-page-text71 {
+    top: 71px;
+    left: 673.3097534179688px;
+    color: rgba(255, 255, 255, 1);
+    width: 122px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text73 {
+    top: 65px;
+    left: 945.5838623046875px;
+    color: rgba(255, 255, 255, 1);
+    width: 222px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text78 {
+    top: 158px;
+    left: 669.3789672851562px;
+    color: rgba(255, 255, 255, 1);
+    width: 142px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Light;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text80 {
+    top: 229px;
+    left: 672.3280029296875px;
+    color: rgba(255, 255, 255, 1);
+    width: 102px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Light;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text82 {
+    top: 158px;
+    left: 974.0869140625px;
+    color: rgba(255, 255, 255, 1);
+    width: 292px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Light;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text84 {
+    top: 229px;
+    left: 974.0869140625px;
+    color: rgba(255, 255, 255, 1);
+    width: 226px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Light;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text86 {
+    top: 537px;
+    left: 40.30128479003906px;
+    color: rgba(255, 255, 255, 1);
+    width: 376px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Semi Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-text88 {
+    top: 624px;
+    left: 103.2094497680664px;
+    color: rgba(255, 255, 255, 1);
+    width: 119px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Light;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-line3 {
+    top: 711px;
+    left: 102.99964904785156px;
+    width: 885px;
+    height: 1px;
+    position: absolute;
+  }
+  .pricing-page-rectangle32 {
+    top: 661px;
+    left: 1032.08056640625px;
+    width: 336px;
+    height: 100px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 50px;
+  }
+  .pricing-page-text90 {
+    top: 687px;
+    left: 1088.9996337890625px;
+    color: rgba(255, 255, 255, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .pricing-page-vector1 {
+    top: 35px;
+    left: 24.999780654907227px;
+    width: 321px;
+    height: 71px;
+    position: absolute;
+    box-sizing: content-box;
+  }
+  .pricing-page-frameicon-instagramicon {
+    top: 1754px;
+    left: 112px;
+    width: 79.45222473144531px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .pricing-page-vector2 {
+    top: 0px;
+    left: 0px;
+    width: 79px;
+    height: 78px;
+    position: absolute;
+  }
+  .pricing-page-frameicon-facebook-square {
+    top: 1754px;
+    left: 229.115234375px;
+    width: 82.03184509277344px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .pricing-page-vector3 {
+    top: 0px;
+    left: 0px;
+    width: 82px;
+    height: 78px;
+    position: absolute;
+  }
+  .pricing-page-frameicon-twitter-square {
+    top: 1754px;
+    left: 348.80859375px;
+    width: 87.19107818603516px;
+    height: 78px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .pricing-page-vector4 {
+    top: 0px;
+    left: 0px;
+    width: 87px;
+    height: 78px;
+    position: absolute;
+  }
+  
